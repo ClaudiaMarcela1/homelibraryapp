@@ -24,7 +24,7 @@ _The following platforms were used for deploying the application:_
 * Database --> Clever cloud
 * Application --> Railway
 
-The web application is available in the URL: https://web-production-0b21.up.railway.app/books
+The web application is available in the URL: https://web-production-0b21.up.railway.app
 
 Note: website loading could be slow because of free servers
 
